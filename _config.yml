@@ -2,7 +2,7 @@
 title: my path shared
 baseurl: "" # Leave blank for root # the subpath of your site, e.g. /blog
 url: "https://marg.one" # the base hostname & protocol for your site, e.g. http://example.com
-theme: just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 include:
   - 2025
