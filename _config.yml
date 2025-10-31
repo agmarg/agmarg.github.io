@@ -1,1 +1,17 @@
-theme: jekyll-theme-cayman
+
+title: my path shared
+baseurl: "" # Leave blank for root # the subpath of your site, e.g. /blog
+url: "https://marg.one" # the base hostname & protocol for your site, e.g. http://example.com
+theme: "just-the-docs"
+
+include:
+  - 2025
+
+nav:
+  - title: "About"
+    url: /about
+  - title: "2025"
+    url: /2025/
+  - title: "Bucket List"
+    url: /bucket-list/
+
